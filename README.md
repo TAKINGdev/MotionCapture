@@ -1,5 +1,5 @@
 # 🎥 Real-Time Pose Animation & Visualization with OpenCV, MediaPipe & Unity 🔥
-![My Image](myimage.jpg)
+![My Image](MotionCapture.png)
 Welcome to the ultimate **Pose Detection and Animation** project! This repo combines the power of **MediaPipe's AI-driven pose estimation**, **OpenCV's video processing**, and **Unity’s 3D engine** to capture human body movements from a video, process them, and animate a 3D model in real-time. All smooth, all slick. 💪✨
 
 ---
